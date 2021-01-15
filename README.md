@@ -1,4 +1,4 @@
-# Volatility-Smile-Strategy
+# Trading-Volatility-Smile
 
 In this repository, we will create a trading strategy using the volatility smile on the BankNifty call options index. 
 We fecth data from an excel file that contains call option of BankNifty for dates from Nov-01-2017 to May-21-2018. All the option data
